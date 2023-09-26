@@ -1,0 +1,19 @@
+html{
+    font-family:'Mooli',serif;
+    font-size:100px;
+    background: blueviolet;
+}
+body{
+    margin: 0 auto;
+    padding: 0; 
+    border: 5px solid black;
+}
+h1{
+    text-shadow: 3px 3px 1px black;
+    font-size: 200px;
+    text-align: center;
+}
+img{
+    width: 50px;
+    height:40px;
+}
